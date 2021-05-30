@@ -32,4 +32,4 @@ unsolvable.
 * Rat in a Maze ----> [C++](/Code/C++/rat_in_maze.cpp)
 * N Queen Problem ----> [C++](/Code/C++/n_queen_problem.cpp) | [Python](/Code/Python/n_queens.py)
 * Sudoku Solver ----> [C++](/Code/C++/sudoku_solver.cpp) | [Java](/Code/Java/Sudoku_Solver.java)
-
+* M coloring problem ---->[C++](Algorithm/Backtracking/M coloring problem)
